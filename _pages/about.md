@@ -11,75 +11,57 @@ I am Dr. Yue-Jiao Gong, a Full Professor in the School of Computer Science and E
 
 research interests include optimization methods based on swarm intelligence, deep learning, reinforcement learning, and their applications in smart cities and intelligent transportation. 
 
-# ✨ Recent Research Highlights
+## ✨ Recent Research Highlights
 
-## 1. Toward Automated Algorithm Design: A Survey and Practical Guide to Meta-Black-Box-Optimization
-
-**Z. Ma, H. Guo, Y.-J. Gong*, J. Zhang, K. C. Tan**  
+### 1. Toward Automated Algorithm Design: A Survey and Practical Guide to Meta-Black-Box-Optimization
+Z. Ma, H. Guo, Y.-J. Gong*, J. Zhang, K. C. Tan,  
 *IEEE Transactions on Evolutionary Computation (TEC), 2025*  
 [Paper Link](https://arxiv.org/abs/2411.00625) | [Awesome-MetaBBO Repository](https://github.com/GMC-DRL/Awesome-MetaBBO)
 
-<div align="center">
-  <img src="/images/MetaBBOsurvey.gif" width="50%">
-</div>
-
-This survey introduces Meta-Black-Box Optimization (MetaBBO) as an emerging avenue within the Evolutionary Computation community, incorporating meta-learning approaches to assist automated algorithm design. It provides a comprehensive review of recent advances, including a unified definition, systematic taxonomy, and evaluation of representative methods.:contentReference[oaicite:11]{index=11}
-
+ <img src="/images/MetaBBOsurvey.gif" width="30%">
+ 
 ---
 
-## 2. Neural Exploratory Landscape Analysis for Meta-Black-Box-Optimization
+### 2. Neural Exploratory Landscape Analysis for Meta-Black-Box-Optimization
 
-**Z. Ma, J. Chen, H. Guo, Y.-J. Gong***  
+Z. Ma, J. Chen, H. Guo, Y.-J. Gong*  
 *The Thirteenth International Conference on Learning Representations (ICLR), 2025*  
 [Paper Link](https://arxiv.org/abs/2408.10672) | [Neur-ELA Repository](https://github.com/GMC-DRL/Neur-ELA)
 
-<div align="center">
-  <img src="/images/NeurELA.png" width="50%">
-</div>
+<img src="/images/NeurELA.png" width="70%">
 
-:contentReference[oaicite:13]{index=13}:contentReference[oaicite:15]{index=15}
 
 ---
 
-## 3. SYMBOL: Generating Flexible Black-Box Optimizers through Symbolic Equation Learning
+### 3. SYMBOL: Generating Flexible Black-Box Optimizers through Symbolic Equation Learning
 
-**J. Chen, Z. Ma, H. Guo, Y. Ma, J. Zhang, Y.-J. Gong***  
+J. Chen, Z. Ma, H. Guo, Y. Ma, J. Zhang, Y.-J. Gong*  
 *International Conference on Learning Representations (ICLR), 2024*  
 [Paper Link](https://arxiv.org/abs/2402.02355) | [SYMBOL Repository](https://github.com/GMC-DRL/Symbol)
 
-<div align="center">
-  <img src="/images/SYMBOL.png" width="50%">
-</div>
+<img src="/images/Symbol.png" width="80%">
 
-:contentReference[oaicite:17]{index=17}:contentReference[oaicite:19]{index=19}
 
 ---
 
-## 4. SDDObench: A Benchmark for Streaming Data-Driven Optimization with Concept Drift
-
-**Y. Zhong, X. Wang, Y. Sun, Y.-J. Gong***  
+### 4. SDDObench: A Benchmark for Streaming Data-Driven Optimization with Concept Drift
+Y. Zhong, X. Wang, Y. Sun, Y.-J. Gong*  
 *Genetic and Evolutionary Computation Conference (GECCO), 2024*  
 [Paper Link](https://dl.acm.org/doi/10.1145/3638529.3654063) | [SDDObench Repository](https://github.com/LabGong/SDDObench)
 
-<div align="center">
-  <img src="/images/SDDObench.png" width="50%">
-</div>
+<img src="/images/SDDObench.png" width="70%">
 
-:contentReference[oaicite:21]{index=21}:contentReference[oaicite:23]{index=23}
 
 ---
 
-## 5. MetaBox: A Benchmark Platform for Meta-Black-Box Optimization with Reinforcement Learning
-
-**Z. Ma, H. Guo, J. Chen, Z. Li, G. Peng, Y.-J. Gong*, Y. Ma, Z. Cao**  
+### 5. MetaBox: A Benchmark Platform for Meta-Black-Box Optimization with Reinforcement Learning
+Z. Ma, H. Guo, J. Chen, Z. Li, G. Peng, Y.-J. Gong*, Y. Ma, Z. Cao  
 *Advances in Neural Information Processing Systems (NeurIPS), 2023*  
 [Paper Link](https://arxiv.org/abs/2310.08252) | [MetaBox Repository](https://github.com/GMC-DRL/MetaBox)
 
-<div align="center">
-  <img src="/images/MetaBox.png" width="50%">
-</div>
+<img src="/images/MetaBox.png" width="80%">
 
-:contentReference[oaicite:25]{index=25}:contentReference[oaicite:27]{index=27}
+
 
 
 
