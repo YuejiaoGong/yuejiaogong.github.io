@@ -9,7 +9,7 @@ redirect_from:
 
 I am Dr. Yue-Jiao Gong, a Full Professor in the School of Computer Science and Engineering, South China University of Technology (SCUT), China. I received my B.S. and Ph.D. degrees in Computer Science from Sun Yat-sen University (SYSU) in 2010 and 2014, respectively, under the supervision of Professor Jun Zhang. I also had the privilege of expanding my horizons as a postdoctoral research fellow in the Department of Computer and Information Science at the University of Macau (UM) from 2015 to 2016, with Professor Yicong Zhou, and as a research assistant in the Hong Kong University of Science and Technology (HKUST) in 2014, alongside Professor Lionel M. Ni.
 
-research interests include optimization methods based on swarm intelligence, deep learning, reinforcement learning, and their applications in smart cities and intelligent transportation. 
+My research interests include optimization methods based on swarm intelligence, deep learning, reinforcement learning, and their applications in smart cities and intelligent transportation. 
 
 ## ✨ Recent Research Highlights
 
