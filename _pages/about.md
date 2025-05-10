@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Dr. Yue-Jiao Gong, a Full Professor in the School of Computer Science and Engineering, South China University of Technology (SCUT), China. I received my B.S. and Ph.D. degrees in Computer Science from Sun Yat-sen University (SYSU) in 2010 and 2014, respectively, under the supervision of Professor Jun Zhang. I also had the privilege of expanding my horizons as a postdoctoral research fellow in the Department of Computer and Information Science at the University of Macau (UM) from 2015 to 2016, with Professor Yicong Zhou, and as a research assistant in the Hong Kong University of Science and Technology (HKUST) in 2014, alongside Professor Lionel M. Ni.
+I am Dr. Yue-Jiao Gong, a Professor in the School of Computer Science and Engineering, South China University of Technology (SCUT), China. I received my B.S. and Ph.D. degrees in Computer Science from Sun Yat-sen University (SYSU) in 2010 and 2014, respectively, under the supervision of Professor Jun Zhang. I also had the privilege of expanding my horizons as a postdoctoral research fellow in the Department of Computer and Information Science at the University of Macau (UM) from 2015 to 2016, with Professor Yicong Zhou, and as a research assistant in the Hong Kong University of Science and Technology (HKUST) in 2014, alongside Professor Lionel M. Ni.
 
 My research interests include optimization methods based on swarm intelligence, deep learning, reinforcement learning, and their applications in smart cities and intelligent transportation. 
 
@@ -18,7 +18,7 @@ Z. Ma, H. Guo, Y.-J. Gong*, J. Zhang, K. C. Tan,
 *IEEE Transactions on Evolutionary Computation (TEC), 2025*  
 [Paper Link](https://arxiv.org/abs/2411.00625) | [Awesome-MetaBBO Repository](https://github.com/GMC-DRL/Awesome-MetaBBO)
 
- <img src="/images/MetaBBOsurvey.gif" width="30%">
+ <img src="/images/MetaBBOsurvey.gif" width="40%">
  
 ---
 
@@ -28,7 +28,7 @@ Z. Ma, J. Chen, H. Guo, Y.-J. Gong*
 *The Thirteenth International Conference on Learning Representations (ICLR), 2025*  
 [Paper Link](https://arxiv.org/abs/2408.10672) | [Neur-ELA Repository](https://github.com/GMC-DRL/Neur-ELA)
 
-<img src="/images/NeurELA.png" width="70%">
+<img src="/images/NeurELA.png" width="80%">
 
 
 ---
@@ -39,7 +39,7 @@ J. Chen, Z. Ma, H. Guo, Y. Ma, J. Zhang, Y.-J. Gong*
 *International Conference on Learning Representations (ICLR), 2024*  
 [Paper Link](https://arxiv.org/abs/2402.02355) | [SYMBOL Repository](https://github.com/GMC-DRL/Symbol)
 
-<img src="/images/Symbol.png" width="80%">
+<img src="/images/Symbol.png" width="90%">
 
 
 ---
@@ -49,7 +49,7 @@ Y. Zhong, X. Wang, Y. Sun, Y.-J. Gong*
 *Genetic and Evolutionary Computation Conference (GECCO), 2024*  
 [Paper Link](https://dl.acm.org/doi/10.1145/3638529.3654063) | [SDDObench Repository](https://github.com/LabGong/SDDObench)
 
-<img src="/images/SDDObench.png" width="70%">
+<img src="/images/SDDObench.png" width="80%">
 
 
 ---
@@ -59,7 +59,7 @@ Z. Ma, H. Guo, J. Chen, Z. Li, G. Peng, Y.-J. Gong*, Y. Ma, Z. Cao
 *Advances in Neural Information Processing Systems (NeurIPS), 2023*  
 [Paper Link](https://arxiv.org/abs/2310.08252) | [MetaBox Repository](https://github.com/GMC-DRL/MetaBox)
 
-<img src="/images/MetaBox.png" width="80%">
+<img src="/images/MetaBox.png" width="90%">
 
 
 
