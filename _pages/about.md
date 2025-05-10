@@ -11,13 +11,75 @@ I am Dr. Yue-Jiao Gong, a Full Professor in the School of Computer Science and E
 
 research interests include optimization methods based on swarm intelligence, deep learning, reinforcement learning, and their applications in smart cities and intelligent transportation. 
 
-:glowing_star: :glowing_star: Recent Research Highlights
-======
-1. Z. Ma, H. Guo, Y.-J. Gong*, J. Zhang, K. C. Tan, "Toward Automated Algorithm Design: A Survey and Practical Guide to Meta-Black-Box-Optimization," IEEE Transactions on Evolutionary Computation (TEC), 2025.
-|<div align=center>
-<img src="/images/keynote 202501.jpg" width="50%">
-</div> | In this survey, we introduce Meta-Black-BoxOptimization (MetaBBO) as an emerging avenue within the Evolutionary Computation (EC) community, which incorporates Meta-learning approaches to assist automated algorithm design. Despite the success of MetaBBO, the current literature provides insufficient summaries of its key aspects and lacks practical guidance for implementation. To bridge this gap, we offer a comprehensive review of recent advances in MetaBBO, providing an in-depth examination of its key developments. We begin with a unified definition of the MetaBBO paradigm, followed by a systematic taxonomy of various algorithm design tasks, including algorithm selection, algorithm configuration, solution manipulation, and algorithm generation. Further, we conceptually summarize different learning methodologies behind current MetaBBO works, including reinforcement learning, supervised learning, neuroevolution, and in-context learning with Large Language Models. A comprehensive evaluation of the latest representative MetaBBO methods is then carried out, alongside an experimental analysis of their optimization performance, computational efficiency, and generalization ability. Based on the evaluation results, we meticulously identify a set of core designs that enhance the generalization and learning effectiveness of MetaBBO. Finally, we outline the vision for the field by providing insight into the latest trends and potential future directions. Relevant literature will be continuously collected and updated at https://github.com/GMC-DRL/Awesome-MetaBBO|
+# ✨ Recent Research Highlights
 
+## 1. Toward Automated Algorithm Design: A Survey and Practical Guide to Meta-Black-Box-Optimization
+
+**Z. Ma, H. Guo, Y.-J. Gong*, J. Zhang, K. C. Tan**  
+*IEEE Transactions on Evolutionary Computation (TEC), 2025*  
+[Paper Link](https://arxiv.org/abs/2411.00625) | [Awesome-MetaBBO Repository](https://github.com/GMC-DRL/Awesome-MetaBBO)
+
+<div align="center">
+  <img src="/images/MetaBBOsurvey.gif" width="50%">
+</div>
+
+This survey introduces Meta-Black-Box Optimization (MetaBBO) as an emerging avenue within the Evolutionary Computation community, incorporating meta-learning approaches to assist automated algorithm design. It provides a comprehensive review of recent advances, including a unified definition, systematic taxonomy, and evaluation of representative methods.:contentReference[oaicite:11]{index=11}
+
+---
+
+## 2. Neural Exploratory Landscape Analysis for Meta-Black-Box-Optimization
+
+**Z. Ma, J. Chen, H. Guo, Y.-J. Gong***  
+*The Thirteenth International Conference on Learning Representations (ICLR), 2025*  
+[Paper Link](https://arxiv.org/abs/2408.10672) | [Neur-ELA Repository](https://github.com/GMC-DRL/Neur-ELA)
+
+<div align="center">
+  <img src="/images/NeurELA.png" width="50%">
+</div>
+
+:contentReference[oaicite:13]{index=13}:contentReference[oaicite:15]{index=15}
+
+---
+
+## 3. SYMBOL: Generating Flexible Black-Box Optimizers through Symbolic Equation Learning
+
+**J. Chen, Z. Ma, H. Guo, Y. Ma, J. Zhang, Y.-J. Gong***  
+*International Conference on Learning Representations (ICLR), 2024*  
+[Paper Link](https://arxiv.org/abs/2402.02355) | [SYMBOL Repository](https://github.com/GMC-DRL/Symbol)
+
+<div align="center">
+  <img src="/images/SYMBOL.png" width="50%">
+</div>
+
+:contentReference[oaicite:17]{index=17}:contentReference[oaicite:19]{index=19}
+
+---
+
+## 4. SDDObench: A Benchmark for Streaming Data-Driven Optimization with Concept Drift
+
+**Y. Zhong, X. Wang, Y. Sun, Y.-J. Gong***  
+*Genetic and Evolutionary Computation Conference (GECCO), 2024*  
+[Paper Link](https://dl.acm.org/doi/10.1145/3638529.3654063) | [SDDObench Repository](https://github.com/LabGong/SDDObench)
+
+<div align="center">
+  <img src="/images/SDDObench.png" width="50%">
+</div>
+
+:contentReference[oaicite:21]{index=21}:contentReference[oaicite:23]{index=23}
+
+---
+
+## 5. MetaBox: A Benchmark Platform for Meta-Black-Box Optimization with Reinforcement Learning
+
+**Z. Ma, H. Guo, J. Chen, Z. Li, G. Peng, Y.-J. Gong*, Y. Ma, Z. Cao**  
+*Advances in Neural Information Processing Systems (NeurIPS), 2023*  
+[Paper Link](https://arxiv.org/abs/2310.08252) | [MetaBox Repository](https://github.com/GMC-DRL/MetaBox)
+
+<div align="center">
+  <img src="/images/MetaBox.png" width="50%">
+</div>
+
+:contentReference[oaicite:25]{index=25}:contentReference[oaicite:27]{index=27}
 
 
 
