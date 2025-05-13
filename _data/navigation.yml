@@ -9,25 +9,30 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: /pub/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Survey & Benchmarks"
+    url: /survey/
 
-  - title: "Teaching"
+  - title: "Awards&Grants"
+    url: /awards/    
+
+  - title: "Teaching&Talks"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "People"
+    url: /people/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Services"
+    url: /service/
     
-  - title: "CV"
-    url: /cv/
-    
+  - title: "Resources"
+    url: /resource/
+  
+  - title: "Photos"
+    url: /photo/
+
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  
