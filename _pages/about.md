@@ -30,7 +30,6 @@ Z. Ma, J. Chen, H. Guo, Y.-J. Gong\*
 
 <img src="/images/NeurELA.png" width="80%">
 
-
 ---
 
 ### 3. SYMBOL: Generating Flexible Black-Box Optimizers through Symbolic Equation Learning
