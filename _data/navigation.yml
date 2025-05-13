@@ -14,20 +14,20 @@ main:
   - title: "Survey & Benchmarks"
     url: /survey/
 
-  - title: "Awards&Grants"
+  - title: "Awards"
     url: /awards/    
 
-  - title: "Teaching&Talks"
-    url: /teaching/    
+  #- title: "Teaching&Talks"
+  #  url: /teaching/    
     
   - title: "People"
     url: /people/
         
-  - title: "Services"
-    url: /service/
+  #- title: "Services"
+  #  url: /service/
     
-  - title: "Resources"
-    url: /resource/
+  #- title: "Resources"
+  #  url: /resource/
   
   - title: "Photos"
     url: /photo/
