@@ -113,20 +113,24 @@ blockquote {
 }
 
 /* links */
-
 a {
-  color: #0000FF;         
-  text-decoration: underline;  
-
-  &:focus {
-    @extend %tab-focus;
+  color: #007bff;         // 默认蓝色
+  text-decoration: none;  // 取消下划线
+  &:hover {
+    color: #0056b3;       // 悬停深蓝色
+    text-decoration: underline;
   }
-
-  &:hover,
   &:active {
-    outline: 0;
+    color: #FF0000;       // 点击红色
+  }
+  &:visited {
+    color: #6c757d;       // 已访问灰色
+  }
+  &:focus {
+    @extend %tab-focus;   // 保持原有焦点样式（如边框高亮）
   }
 }
+
 
 /* code */
 
