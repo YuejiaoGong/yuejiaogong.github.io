@@ -7,16 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I am Dr. Yue-Jiao Gong, a Professor in the School of Computer Science and Engineering, South China University of Technology (SCUT), China. I received my B.S. and Ph.D. degrees in Computer Science from Sun Yat-sen University (SYSU) in 2010 and 2014, respectively, under the supervision of Professor Jun Zhang. I also had the privilege of expanding my horizons as a postdoctoral research fellow in the Department of Computer and Information Science at the University of Macau (UM) from 2015 to 2016, with Professor Yicong Zhou, and as a research assistant in the Hong Kong University of Science and Technology (HKUST) in 2014, alongside Professor Lionel M. Ni.
+I am Dr. Yue-Jiao Gong, a Professor in the School of Computer Science and Engineering, **South China University of Technology (SCUT)**, China. I received my B.S. and Ph.D. degrees in Computer Science from **Sun Yat-sen University (SYSU)** in 2010 and 2014, respectively, under the supervision of [Professor Jun Zhang](https://scholar.google.com/citations?user=XIhZnNEAAAAJ&hl=zh-CN). I also had the privilege of expanding my horizons as a postdoctoral research fellow in the Department of Computer and Information Science at the **University of Macau (UM)** from 2015 to 2016, with [Professor Yicong Zhou](https://www.fst.um.edu.mo/personal/yicongzhou/), and as a research assistant in the **Hong Kong University of Science and Technology (HKUST)** in 2014, alongside [Professor Lionel M. Ni](https://scholar.google.com/citations?user=OzMYwDIAAAAJ&hl=zh-CN).
 
-My research interests include optimization methods based on swarm intelligence, deep learning, reinforcement learning, and their applications in smart cities and intelligent transportation. 
+My research interests include **optimization methods based on swarm intelligence, deep learning, reinforcement learning**, and their applications in **smart cities and intelligent transportation**. 
 
 ## ✨ Recent Research Highlights
 
 ### 1. Toward Automated Algorithm Design: A Survey and Practical Guide to Meta-Black-Box-Optimization
 Z. Ma, H. Guo, Y.-J. Gong\*, J. Zhang, K. C. Tan,  
 *IEEE Transactions on Evolutionary Computation (TEC), 2025*  
-[Paper Link](https://arxiv.org/abs/2411.00625) | [Awesome-MetaBBO Repository](https://github.com/GMC-DRL/Awesome-MetaBBO)
+[Paper](/papers/MetaBBOsurvey.pdf) | [Awesome-MetaBBO Repository](https://github.com/GMC-DRL/Awesome-MetaBBO)
 
  <img src="/images/MetaBBOsurvey.gif" width="40%">
  
@@ -26,7 +26,7 @@ Z. Ma, H. Guo, Y.-J. Gong\*, J. Zhang, K. C. Tan,
 
 Z. Ma, J. Chen, H. Guo, Y.-J. Gong\*  
 *The Thirteenth International Conference on Learning Representations (ICLR), 2025*  
-[Paper Link](https://arxiv.org/abs/2408.10672) | [Neur-ELA Repository](https://github.com/GMC-DRL/Neur-ELA)
+[Paper](/papers/NeurELA.pdf) | [NeurELA Repository](https://github.com/GMC-DRL/Neur-ELA)
 
 <img src="/images/NeurELA.png" width="80%">
 
@@ -36,7 +36,7 @@ Z. Ma, J. Chen, H. Guo, Y.-J. Gong\*
 
 J. Chen, Z. Ma, H. Guo, Y. Ma, J. Zhang, Y.-J. Gong\*  
 *International Conference on Learning Representations (ICLR), 2024*  
-[Paper Link](https://arxiv.org/abs/2402.02355) | [SYMBOL Repository](https://github.com/GMC-DRL/Symbol)
+[Paper](/papers/SYMBOL.pdf) | [SYMBOL Repository](https://github.com/GMC-DRL/Symbol)
 
 <img src="/images/Symbol.png" width="90%">
 
