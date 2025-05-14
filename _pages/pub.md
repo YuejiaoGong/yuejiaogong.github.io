@@ -10,8 +10,8 @@ redirect_from:
 
 
 ## Selected Publications
-- Below, you'll find a categorized selection of featured articles, <span style="color:#0000FF;"> sorted by areas of expertise</span>. An asterisk* indicates that I'm (one of) the corresponding author(s). 
-- For a comprehensive list of my publications, please visit my profiles on [Google Scholar](https://scholar.google.com/citations?user=Mi0Zu3IAAAAJ&hl=en) and [DBLP](https://dblp.org/pid/65/7184.html).
+Below, you'll find a categorized selection of featured articles, <span style="color:#0000FF;"> sorted by areas of expertise</span>. An asterisk* indicates that I'm (one of) the corresponding author(s). 
+For a comprehensive list of my publications, please visit my profiles on [Google Scholar](https://scholar.google.com/citations?user=Mi0Zu3IAAAAJ&hl=en) and [DBLP](https://dblp.org/pid/65/7184.html).
 
 ### 1. Learning for Optimization 
 *I began my research in this field in 2020, exploring a range of fascinating topics such as **<span style="color:#0000FF;"> Meta-Black-Box Optimization (MetaBBO)</span>**, **<span style="color: #FF0000;"> Data-Driven Evolutionary Optimization (DDEO)</span>**, and **<span style="color:#00FF00;"> Neural Combinatorial Optimization (NCO)</span>**.*
