@@ -10,11 +10,12 @@ redirect_from:
 
 
 ## Selected Publications
-Below, you'll find a categorized selection of featured articles, <span style="color:#0000FF;"> sorted by areas of expertise</span>. An asterisk* indicates that I'm (one of) the corresponding author(s). 
+Below, you'll find a categorized selection of featured articles, <span style="color:#0000FF;"> sorted by areas of expertise</span>. An asterisk* indicates that I'm (one of) the corresponding author(s).
+ 
 For a comprehensive list of my publications, please visit my profiles on [Google Scholar](https://scholar.google.com/citations?user=Mi0Zu3IAAAAJ&hl=en) and [DBLP](https://dblp.org/pid/65/7184.html).
 
 ### 1. Learning for Optimization 
-*I began my research in this field in 2020, exploring a range of fascinating topics such as **<span style="color:#0000FF;"> Meta-Black-Box Optimization (MetaBBO)</span>**, **<span style="color: #FF0000;"> Data-Driven Evolutionary Optimization (DDEO)</span>**, and **<span style="color:#00FF00;"> Neural Combinatorial Optimization (NCO)</span>**.*
+*I began my research in this field in 2020, exploring a range of fascinating topics such as **<span style="color:#0000FF;"> Meta-Black-Box Optimization (MetaBBO)</span>**, **<span style="color: #FF0000;"> Data-Driven Evolutionary Optimization (DDEO)</span>**, and **<span style="color:rgb(255, 136, 0);"> Neural Combinatorial Optimization (NCO)</span>**.*
 
 **<span style="color:#0000FF;"> [MetaBBO] </span>** Z. Ma, H. Guo, Y.-J. Gong*, J. Zhang, K. C. Tan, "Toward Automated Algorithm Design: A Survey and Practical Guide to Meta-Black-Box-Optimization," **IEEE Transactions on Evolutionary Computation (TEC)**, 2025.
 
@@ -44,11 +45,11 @@ For a comprehensive list of my publications, please visit my profiles on [Google
 
 **<span style="color:#FF0000;"> [DDEO] </span>**  Y.-J. Gong, J.-X. Guo, D.-L. Lin, et al., “Automated Team Assembly in Mobile Games: A Data-Driven Evolutionary Approach using a Deep Learning Surrogate,” **IEEE Transactions on Games (TG)**, vol. 15, no. 1, pp. 67-80, 2023.
 
-**<span style="color:#00FF00;"> [NCO] </span>**   Q. Li, Z. Cao, Y. Ma, Y. Wu, and Y.-J. Gong*, "Diversity Optimization for Travelling Salesman Problem via Deep Reinforcement Learning," **ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (SIGKDD)**, 2025. [[Code]](https://github.com/LiQisResearch/KDD--RF-MA3S)
+**<span style="color:rgb(255, 136, 0);"> [NCO] </span>**   Q. Li, Z. Cao, Y. Ma, Y. Wu, and Y.-J. Gong*, "Diversity Optimization for Travelling Salesman Problem via Deep Reinforcement Learning," **ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (SIGKDD)**, 2025. [[Code]](https://github.com/LiQisResearch/KDD--RF-MA3S)
 
-**<span style="color:#00FF00;"> [NCO] </span>**   J. Chen, J. Wang, Z. Cao, Y. Wu, H. Qin, Z. Zhang and Y.-J. Gong, “Rethinking Neural Multi-Objective Combinatorial Optimization via Neat Weight Embedding,” **The Thirteenth International Conference on Learning Representations (ICLR)**, 2025. [[Code]](https://github.com/bill-cjb/WE)
+**<span style="color:rgb(255, 136, 0);"> [NCO] </span>**   J. Chen, J. Wang, Z. Cao, Y. Wu, H. Qin, Z. Zhang and Y.-J. Gong, “Rethinking Neural Multi-Objective Combinatorial Optimization via Neat Weight Embedding,” **The Thirteenth International Conference on Learning Representations (ICLR)**, 2025. [[Code]](https://github.com/bill-cjb/WE)
 
-**<span style="color:#00FF00;"> [NCO] </span>**   Y. Ma, J. Li, Z. Cao, W. Song, H. Guo, Y.-J. Gong, et al., “Efficient Neural Neighborhood Search for Pickup and Delivery Problems,” **The 31st International Joint Conference on Artificial Intelligence (IJCAI)**, 2022.  [[Code]](https://github.com/yining043/PDP-N2S)
+**<span style="color:rgb(255, 136, 0);"> [NCO] </span>**   Y. Ma, J. Li, Z. Cao, W. Song, H. Guo, Y.-J. Gong, et al., “Efficient Neural Neighborhood Search for Pickup and Delivery Problems,” **The 31st International Joint Conference on Artificial Intelligence (IJCAI)**, 2022.  [[Code]](https://github.com/yining043/PDP-N2S)
 
 ---
 
@@ -81,6 +82,8 @@ For a comprehensive list of my publications, please visit my profiles on [Google
 
 ### 3. Optimization & Learning in Intelligent Transportation Systems
 *This is my primary application area of expertise.*
+
+ J. Li, Z. Ma, T. Huang, Y.-J. Gong\*, "Learn to Refine: Synergistic Multi-Agent Path Optimization for Lifelong Conflict-Free Navigation of Autonomous Vehicles," **ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (SIGKDD)**, 2025. 
 
 Y.-J. Gong, T. Huang, Y.-N. Ma, et al., “MTrajPlanner: A Multiple-Trajectory Planning Algorithm for Autonomous Underwater Vehicles,” **IEEE Transactions on Intelligent Transportation Systems (TITS)**, vol. 24, no. 4, pp. 3714-3727, 2023.   [[Code]](https://github.com/GnauhGnit/MTrajPlanner)
 
