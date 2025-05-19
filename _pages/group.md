@@ -10,7 +10,7 @@ redirect_from:
 ## Postdoctoral Position Opening
 We invite highly motivated candidates with a PhD in Computer Science and related fields to join our team. Annual salary tiers: ￥400,000 / ￥350,000 / ￥300,000. Submit your CV to my email for immediate consideration.
 
-## MetaEvo
+## MetaEvo Group
 
 A dynamic special interest group in our lab. Visit the [MetaEvo](https://metaevo.github.io/) homepage to explore papers, repositories, and activities.
 <div style="text-align:center">
@@ -22,7 +22,7 @@ A dynamic special interest group in our lab. Visit the [MetaEvo](https://metaevo
 -	[Xiaolin Xiao](https://scholar.google.com/citations?user=FZxn1fYAAAAJ&hl=zh-CN) (2019-2022, South China Normal University)
 
 
-### PhDs
+### PhD
 - Wenjie Qiu (2025-present)	
 - Yuanting Zhong (2024-present)
 -	Ke Zhu (2024-present)
@@ -36,7 +36,7 @@ A dynamic special interest group in our lab. Visit the [MetaEvo](https://metaevo
 -	[Weili Liu](https://scholar.google.com/citations?user=Zc0TSGgAAAAJ&hl=zh-CN) (2018-2020, co-supervised with Prof. Wei-Neng Chen, Guangdong Polytechnic Normal University)
 
 
-###	MScs
+###	MSc
 -	Jiajun Zhan (2024-present)
 -	Xiaolong Hu (2024-present)
 -	Zihan Yang (2024-present)
