@@ -17,9 +17,13 @@ For a comprehensive list of my publications, please visit my profiles on [Google
 ### 1. Learning for Optimization 
 *I began my research in this field in 2020, exploring a range of fascinating topics such as **<span style="color:#0000FF;"> Meta-Black-Box Optimization (MetaBBO)</span>**, **<span style="color: #FF0000;"> Data-Driven Evolutionary Optimization (DDEO)</span>**, and **<span style="color:rgb(255, 136, 0);"> Neural Combinatorial Optimization (NCO)</span>**.*
 
-**<span style="color:#0000FF;"> [MetaBBO] </span>** Z. Ma, H. Guo, Y.-J. Gong*, J. Zhang, K. C. Tan, "Toward Automated Algorithm Design: A Survey and Practical Guide to Meta-Black-Box-Optimization," **IEEE Transactions on Evolutionary Computation (TEC)**, 2025.
+**<span style="color:#0000FF;"> [MetaBBO] </span>** Z. Ma, Y.-J. Gong*, H. Guo, W. Qiu, S. Ma, et al., "MetaBox-v2: A Unified Benchmark Platform for Meta-Black-Box Optimization," https://arxiv.org/abs/2505.17745 
+
+**<span style="color:#0000FF;"> [MetaBBO] </span>** H. Guo, Z. Ma, Y. Ma, X. Zhang, W.-N. Chen, Y.-J. Gong*, "DesignX: Human-Competitive Algorithm Designer for Black-Box Optimization," https://arxiv.org/abs/2505.17866 
 
 **<span style="color:#0000FF;"> [MetaBBO] </span>** Z. Ma, H. Guo, J. Chen, G. Peng, Z. Cao, Y. Ma, Y.-J. Gong*, "LLaMoCo: Instruction Tuning of Large Language Models for Optimization Code Generation," https://arxiv.org/abs/2403.01131 
+
+**<span style="color:#0000FF;"> [MetaBBO] </span>** Z. Ma, H. Guo, Y.-J. Gong*, J. Zhang, K. C. Tan, "Toward Automated Algorithm Design: A Survey and Practical Guide to Meta-Black-Box-Optimization," **IEEE Transactions on Evolutionary Computation (TEC)**, 2025.
 
 **<span style="color:#0000FF;"> [MetaBBO] </span>** Z. Ma, J. Chen, H. Guo, Y.-J. Gong*, "Neural Exploratory Landscape Analysis for Meta-Black-Box-Optimization," **The Thirteenth International Conference on Learning Representations (ICLR)**, 2025.   [[Code]](https://github.com/MetaEvo/Neur-ELA)
 

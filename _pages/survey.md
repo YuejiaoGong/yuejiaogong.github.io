@@ -20,12 +20,11 @@ Z. Ma, H. Guo, Y.-J. Gong\*, J. Zhang, K. C. Tan,
 ---
 
 ## Benchmarks
-**MetaBox: A Benchmark Platform for Meta-Black-Box Optimization with Reinforcement Learning**
-Z. Ma, H. Guo, J. Chen, Z. Li, G. Peng, Y.-J. Gong\*, Y. Ma, Z. Cao  
-*Advances in Neural Information Processing Systems (NeurIPS), 2023*  
-[Paper](/papers/MetaBox.pdf) | [MetaBox Repository](https://github.com/GMC-DRL/MetaBox)
+**MetaBox-v2: A Unified Benchmark Platform for Meta-Black-Box Optimization**
+Z. Ma, Y.-J. Gong\*, H. Guo, W. Qiu, S. Ma, H. Lian, J. Zhan, K. Chen, C. Wang, Z. Huang, Z. Huang, G. Peng, R. Cheng, Y. Ma
+[Paper](/papers/metabox-v2.pdf) | [MetaBox Repository](https://github.com/MetaEvo/MetaBox)
 
-<img src="/images/MetaBox.png" width="90%">
+<img src="/images/MetaBox-v2.png" width="90%">
 
 ---
 
@@ -35,6 +34,15 @@ Y. Zhong, X. Wang, Y. Sun, Y.-J. Gong\*
 [Paper](/papers/SDDObench.pdf) | [SDDObench Repository](https://github.com/LabGong/SDDObench)
 
 <img src="/images/SDDObench.png" width="85%">
+
+---
+
+**MetaBox: A Benchmark Platform for Meta-Black-Box Optimization with Reinforcement Learning**
+Z. Ma, H. Guo, J. Chen, Z. Li, G. Peng, Y.-J. Gong\*, Y. Ma, Z. Cao  
+*Advances in Neural Information Processing Systems (NeurIPS), 2023*  
+[Paper](/papers/MetaBox.pdf) | [MetaBox Repository](https://github.com/GMC-DRL/MetaBox)
+
+<img src="/images/MetaBox.png" width="90%">
 
 ---
 
