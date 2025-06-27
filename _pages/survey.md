@@ -24,7 +24,7 @@ Z. Ma, H. Guo, Y.-J. Gong\*, J. Zhang, K. C. Tan,
 Z. Ma, Y.-J. Gong\*, H. Guo, W. Qiu, S. Ma, H. Lian, J. Zhan, K. Chen, C. Wang, Z. Huang, Z. Huang, G. Peng, R. Cheng, Y. Ma
 [Paper](/papers/metabox-v2.pdf) | [MetaBox Repository](https://github.com/MetaEvo/MetaBox)
 
-<img src="/images/MetaBox-v2.png" width="90%">
+<img src="/images/MetaBox-v2.png" width="80%">
 
 ---
 
