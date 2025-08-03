@@ -42,6 +42,16 @@ J. Chen, Z. Ma, H. Guo, Y. Ma, J. Zhang, Y.-J. Gong\*
 
 ---
 
+### 4. Data-Driven Evolutionary Computation under Continuously Streaming Environments: A Drift-Aware Approach
+
+Y.-T. Zhong, Y.-J. Gong\*  
+*IEEE Transactions on Evolutionary Computation (TEC), 2025*  
+[Paper](/papers/SYMBOL.pdf) | [DASE Repository](https://github.com/YTALIEN/DASE)
+
+<img src="/images/DASE.png" width="90%">
+
+---
+
 <br>
 <a href="https://info.flagcounter.com/Dgj6"><img src="https://s01.flagcounter.com/count2/Dgj6/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 

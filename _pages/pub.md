@@ -39,6 +39,8 @@ For a comprehensive list of my publications, please visit my profiles on [Google
 
 **<span style="color:#0000FF;"> [MetaBBO] </span>** Z. Ma, J. Chen, H. Guo, Y. Ma, Y.-J. Gong*, “Auto-configuring Exploration-Exploitation Tradeoff in Evolutionary Computation via Deep Reinforcement Learning,” **Genetic and Evolutionary Computation Conference (GECCO)**, 2024.  [[Code]](https://github.com/MetaEvo/GLEET)
 
+**<span style="color:#FF0000;"> [DDEO] </span>**     Y. Zhong and Y.-J. Gong*, “Data-Driven Evolutionary Computation under Continuously Streaming Environments: A Drift-Aware Approach,” **IEEE Transactions on Evolutionary Computation**, 2025.   [[Code]](https://github.com/YTALIEN/DASE)
+
 **<span style="color:#FF0000;"> [DDEO] </span>**     Y. Zhong, X. Wang, Y. Sun, Y.-J. Gong*, “SDDObench: A Benchmark for Streaming Data-Driven Optimization with Concept Drift,” **Genetic and Evolutionary Computation Conference (GECCO)**, 2024.   [[Code]](https://github.com/LabGong/SDDObench)
 
 **<span style="color:#FF0000;"> [DDEO] </span>**  Y.-J. Gong, Y.-T. Zhong, and H.-G. Huang, “Offline Data-Driven Optimization at Scale: A Cooperative Coevolutionary Approach,” **IEEE Transactions on Evolutionary Computation (TEC)**, 2024.  [ [Code]](https://github.com/LabGong/cc-ddea)
@@ -111,6 +113,8 @@ Y.-J. Gong, E. Chen, Lionel M. Ni, et al, “AntMapper: An Ant Colony-Based Map 
 
 ### 4. Optimization & Learning in Fundamental Tasks of Data Mining and Image Processing
 *My postdoctoral experience equipped me with a solid foundation in data mining and image processing, and I continue to apply the latest optimization and learning techniques to address fundamental tasks within the areas.*
+
+X. Xiao, Y.-J. Gong* and Y. Zhou, “Learning Orthogonal Latent Representations for Multi-View Clustering,” **IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)**, 2025.
 
 X. Xiao, Y. Wu, and Y.-J. Gong*, “Relative Comparison-based Consensus Learning for Multi-view Subspace Clustering,” **IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)**, 2024.
 
