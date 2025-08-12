@@ -48,7 +48,7 @@ Y.-T. Zhong, Y.-J. Gong\*
 *IEEE Transactions on Evolutionary Computation (TEC), 2025*  
 [Paper](/papers/DASE.pdf) | [DASE Repository](https://github.com/YTALIEN/DASE)
 
-<img src="/images/DASE-2.png" width="90%">
+<img src="/images/DASE-2.png" width="70%">
 
 ---
 
