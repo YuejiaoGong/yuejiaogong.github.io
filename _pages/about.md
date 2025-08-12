@@ -46,7 +46,7 @@ J. Chen, Z. Ma, H. Guo, Y. Ma, J. Zhang, Y.-J. Gong\*
 
 Y.-T. Zhong, Y.-J. Gong\*  
 *IEEE Transactions on Evolutionary Computation (TEC), 2025*  
-[Paper](/papers/SYMBOL.pdf) | [DASE Repository](https://github.com/YTALIEN/DASE)
+[Paper](/papers/DASE.pdf) | [DASE Repository](https://github.com/YTALIEN/DASE)
 
 <img src="/images/DASE.png" width="90%">
 

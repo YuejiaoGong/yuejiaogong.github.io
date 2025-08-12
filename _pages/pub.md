@@ -116,6 +116,8 @@ Y.-J. Gong, E. Chen, Lionel M. Ni, et al, “AntMapper: An Ant Colony-Based Map 
 
 X. Xiao, Y.-J. Gong* and Y. Zhou, “Learning Orthogonal Latent Representations for Multi-View Clustering,” **IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)**, 2025.
 
+Y. Chen, X. Xiao, and Y.-J. Gong, “ConsensNet: A Unified Consensus-Centric Framework for Incomplete Multi-View Clustering,” **The 34th ACM International Conference on Information and Knowledge Management (CIKM)**, 2025.
+
 X. Xiao, Y. Wu, and Y.-J. Gong*, “Relative Comparison-based Consensus Learning for Multi-view Subspace Clustering,” **IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)**, 2024.
 
 X. Xiao and Y.-J. Gong*, “Accurate Complementarity Learning for Graph-based Multi-view Clustering,” **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**, 2023.
