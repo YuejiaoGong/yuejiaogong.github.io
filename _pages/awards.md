@@ -9,7 +9,7 @@ redirect_from:
 
 Throughout my academic journey, I have been honored to receive several awards & honors, including:
 
-- World's Top 2% Scientists on the Stanford University Released List (2023,2024)
+- World's Top 2% Scientists on the Stanford University Released List (2023,2024, 2025)
 - Guangzhou Leading Talent Scholar in Science and Technology (2024)
 - SCUT-TCL Young Scholar (2022)
 - Guangdong Distinguished Young Scholar (2022)

@@ -17,11 +17,15 @@ For a comprehensive list of my publications, please visit my profiles on [Google
 ### 1. Learning for Optimization 
 *I began my research in this field in 2020, exploring a range of fascinating topics such as **<span style="color:#0000FF;"> Meta-Black-Box Optimization (MetaBBO)</span>**, **<span style="color: #FF0000;"> Data-Driven Evolutionary Optimization (DDEO)</span>**, and **<span style="color:rgb(255, 136, 0);"> Neural Combinatorial Optimization (NCO)</span>**.*
 
-**<span style="color:#0000FF;"> [MetaBBO] </span>** Z. Ma, Y.-J. Gong*, H. Guo, W. Qiu, S. Ma, et al., "MetaBox-v2: A Unified Benchmark Platform for Meta-Black-Box Optimization," https://arxiv.org/abs/2505.17745 
 
-**<span style="color:#0000FF;"> [MetaBBO] </span>** H. Guo, Z. Ma, Y. Ma, X. Zhang, W.-N. Chen, Y.-J. Gong*, "DesignX: Human-Competitive Algorithm Designer for Black-Box Optimization," https://arxiv.org/abs/2505.17866 
+**<span style="color:#0000FF;"> [MetaBBO] </span>** C. Wang, Y.-J. Gong, Z. Cao, Z. Ma, "Instance Generation for Meta-Black-Box Optimization through Latent Space Reverse Engineering," **The 39th AAAI Conference on Artificial Intelligence (AAAI)**, 2026. [[Code]](https://github.com/MetaEvo/Diverse-BBO)
 
-**<span style="color:#0000FF;"> [MetaBBO] </span>** Z. Ma, H. Guo, J. Chen, G. Peng, Z. Cao, Y. Ma, Y.-J. Gong*, "LLaMoCo: Instruction Tuning of Large Language Models for Optimization Code Generation," https://arxiv.org/abs/2403.01131 
+**<span style="color:#0000FF;"> [MetaBBO] </span>** Z. Ma, Y.-J. Gong*, H. Guo, W. Qiu, S. Ma, et al., "MetaBox-v2: A Unified Benchmark Platform for Meta-Black-Box Optimization," **Advances in Neural Information Processing Systems (NeurIPS)**, 2025.  [[Code]](https://github.com/MetaEvo/MetaBox)
+
+**<span style="color:#0000FF;"> [MetaBBO] </span>** H. Guo, Z. Ma, Y. Ma, X. Zhang, W.-N. Chen, Y.-J. Gong*, "DesignX: Human-Competitive Algorithm Designer for Black-Box Optimization," **Advances in Neural Information Processing Systems (NeurIPS)**, 2025.  [[Code]](https://github.com/MetaEvo/DesignX)
+
+**<span style="color:#0000FF;"> [MetaBBO] </span>** H. Guo, Z. Ma, Y. Ma, X. Zhang, W.-N. Chen, Y.-J. Gong*, "DesignX: Human-Competitive Algorithm Designer for Black-Box Optimization," **Advances in Neural Information Processing Systems (NeurIPS)**, 2025.  [[Code]](https://github.com/MetaEvo/DesignX)
+
 
 **<span style="color:#0000FF;"> [MetaBBO] </span>** Z. Ma, H. Guo, Y.-J. Gong*, J. Zhang, K. C. Tan, "Toward Automated Algorithm Design: A Survey and Practical Guide to Meta-Black-Box-Optimization," **IEEE Transactions on Evolutionary Computation (TEC)**, 2025.
 
@@ -38,6 +42,8 @@ For a comprehensive list of my publications, please visit my profiles on [Google
 **<span style="color:#0000FF;"> [MetaBBO] </span>** Z. Ma, H. Guo, J. Chen, Z. Li, G. Peng, Y.-J. Gong*, Y. Ma, and Z. Cao, “MetaBox: A Benchmark Platform for Meta-Black-Box Optimization with Reinforcement Learning,” **Advances in Neural Information Processing Systems (NeurIPS)**, 2023.   [[Code]](https://github.com/MetaEvo/MetaBox) 
 
 **<span style="color:#0000FF;"> [MetaBBO] </span>** Z. Ma, J. Chen, H. Guo, Y. Ma, Y.-J. Gong*, “Auto-configuring Exploration-Exploitation Tradeoff in Evolutionary Computation via Deep Reinforcement Learning,” **Genetic and Evolutionary Computation Conference (GECCO)**, 2024.  [[Code]](https://github.com/MetaEvo/GLEET)
+
+**<span style="color:#FF0000;"> [DDEO] </span>** Y.-T. Zhong, T. Huang, X. Xiao, Y.-J. Gong*, "TRACE: A Generalizable Drift Detector for Streaming Data-Driven Optimization," **The 39th AAAI Conference on Artificial Intelligence (AAAI)**, 2026. [[Code]](https:/xxxs)
 
 **<span style="color:#FF0000;"> [DDEO] </span>**     Y. Zhong and Y.-J. Gong*, “Data-Driven Evolutionary Computation under Continuously Streaming Environments: A Drift-Aware Approach,” **IEEE Transactions on Evolutionary Computation**, 2025.   [[Code]](https://github.com/YTALIEN/DASE)
 
