@@ -17,6 +17,7 @@ For a comprehensive list of my publications, please visit my profiles on [Google
 ### 1. Learning for Optimization 
 *I began my research in this field in 2020, exploring a range of fascinating topics such as **<span style="color:#0000FF;"> Meta-Black-Box Optimization (MetaBBO)</span>**, **<span style="color: #FF0000;"> Data-Driven Evolutionary Optimization (DDEO)</span>**, and **<span style="color:rgb(255, 136, 0);"> Neural Combinatorial Optimization (NCO)</span>**.*
 
+**<span style="color:#0000FF;"> [MetaBBO] </span>** J. Zhan, Z. Ma, Y.-J. Gong*, K. C. Tan, "Learning Where, What and How to Transfer: A Multi-Role Reinforcement Learning Approach for Evolutionary Multitasking," https://arxiv.org/abs/2511.15199
 
 **<span style="color:#0000FF;"> [MetaBBO] </span>** C. Wang, Y.-J. Gong, Z. Cao, Z. Ma, "Instance Generation for Meta-Black-Box Optimization through Latent Space Reverse Engineering," **The 39th AAAI Conference on Artificial Intelligence (AAAI)**, 2026. [[Code]](https://github.com/MetaEvo/Diverse-BBO)
 
@@ -24,8 +25,7 @@ For a comprehensive list of my publications, please visit my profiles on [Google
 
 **<span style="color:#0000FF;"> [MetaBBO] </span>** H. Guo, Z. Ma, Y. Ma, X. Zhang, W.-N. Chen, Y.-J. Gong*, "DesignX: Human-Competitive Algorithm Designer for Black-Box Optimization," **Advances in Neural Information Processing Systems (NeurIPS)**, 2025.  [[Code]](https://github.com/MetaEvo/DesignX)
 
-**<span style="color:#0000FF;"> [MetaBBO] </span>** H. Guo, Z. Ma, Y. Ma, X. Zhang, W.-N. Chen, Y.-J. Gong*, "DesignX: Human-Competitive Algorithm Designer for Black-Box Optimization," **Advances in Neural Information Processing Systems (NeurIPS)**, 2025.  [[Code]](https://github.com/MetaEvo/DesignX)
-
+**<span style="color:#0000FF;"> [MetaBBO] </span>** Z. Ma, H. Guo, J. Chen, G. Peng, Z. Cao, Y. Ma, Y.-J. Gong*, "LLaMoCo: Instruction Tuning of Large Language Models for Optimization Code Generation," https://arxiv.org/abs/2403.01131
 
 **<span style="color:#0000FF;"> [MetaBBO] </span>** Z. Ma, H. Guo, Y.-J. Gong*, J. Zhang, K. C. Tan, "Toward Automated Algorithm Design: A Survey and Practical Guide to Meta-Black-Box-Optimization," **IEEE Transactions on Evolutionary Computation (TEC)**, 2025.
 
@@ -43,19 +43,17 @@ For a comprehensive list of my publications, please visit my profiles on [Google
 
 **<span style="color:#0000FF;"> [MetaBBO] </span>** Z. Ma, J. Chen, H. Guo, Y. Ma, Y.-J. Gong*, “Auto-configuring Exploration-Exploitation Tradeoff in Evolutionary Computation via Deep Reinforcement Learning,” **Genetic and Evolutionary Computation Conference (GECCO)**, 2024.  [[Code]](https://github.com/MetaEvo/GLEET)
 
-**<span style="color:#FF0000;"> [DDEO] </span>** Y.-T. Zhong, T. Huang, X. Xiao, Y.-J. Gong*, "TRACE: A Generalizable Drift Detector for Streaming Data-Driven Optimization," **The 39th AAAI Conference on Artificial Intelligence (AAAI)**, 2026. [[Code]](https:/xxxs)
+**<span style="color:#FF0000;"> [DDEO] </span>** Y.-T. Zhong, T. Huang, X. Xiao, Y.-J. Gong*, "TRACE: A Generalizable Drift Detector for Streaming Data-Driven Optimization," **The 39th AAAI Conference on Artificial Intelligence (AAAI)**, 2026. [[Code]]((https://github.com/YTALIEN/TRACE))
 
-**<span style="color:#FF0000;"> [DDEO] </span>**     Y. Zhong and Y.-J. Gong*, “Data-Driven Evolutionary Computation under Continuously Streaming Environments: A Drift-Aware Approach,” **IEEE Transactions on Evolutionary Computation**, 2025.   [[Code]](https://github.com/YTALIEN/DASE)
+**<span style="color:#FF0000;"> [DDEO] </span>**  Y. Zhong and Y.-J. Gong*, “Data-Driven Evolutionary Computation under Continuously Streaming Environments: A Drift-Aware Approach,” **IEEE Transactions on Evolutionary Computation**, 2025.   [[Code]](https://github.com/YTALIEN/DASE)
 
-**<span style="color:#FF0000;"> [DDEO] </span>**     Y. Zhong, X. Wang, Y. Sun, Y.-J. Gong*, “SDDObench: A Benchmark for Streaming Data-Driven Optimization with Concept Drift,” **Genetic and Evolutionary Computation Conference (GECCO)**, 2024.   [[Code]](https://github.com/LabGong/SDDObench)
+**<span style="color:#FF0000;"> [DDEO] </span>** Y. Zhong, X. Wang, Y. Sun, Y.-J. Gong*, “SDDObench: A Benchmark for Streaming Data-Driven Optimization with Concept Drift,” **Genetic and Evolutionary Computation Conference (GECCO)**, 2024.   [[Code]](https://github.com/LabGong/SDDObench)
 
 **<span style="color:#FF0000;"> [DDEO] </span>**  Y.-J. Gong, Y.-T. Zhong, and H.-G. Huang, “Offline Data-Driven Optimization at Scale: A Cooperative Coevolutionary Approach,” **IEEE Transactions on Evolutionary Computation (TEC)**, 2024.  [ [Code]](https://github.com/LabGong/cc-ddea)
 
 **<span style="color:#FF0000;"> [DDEO] </span>**  X.-R. Zhang, Y.-J. Gong*, Z. Cao, J. Zhang, “Island-Based Evolutionary Computation with Diverse Surrogates and Adaptive Knowledge Transfer for High-Dimensional Data-Driven Optimization,” **ACM Transactions on Evolutionary Learning and Optimization (TELO)**, 2024. [ [Code]](https://github.com/LabGong/DSKT-DDEA)
 
 **<span style="color:#FF0000;"> [DDEO] </span>**  H.-G. Huang and Y.-J. Gong*, “Contrastive Learning: An Alternative Surrogate for Offline Data-Driven Evolutionary Computation,” **IEEE Transactions on Evolutionary Computation (TEC)**, vol. 27, no. 2, pp. 370-384, 2023.  [ [Code]](https://github.com/YuejiaoGong/CL-DDEA)
-
-**<span style="color:#FF0000;"> [DDEO] </span>**  Y.-J. Gong, J.-X. Guo, D.-L. Lin, et al., “Automated Team Assembly in Mobile Games: A Data-Driven Evolutionary Approach using a Deep Learning Surrogate,” **IEEE Transactions on Games (TG)**, vol. 15, no. 1, pp. 67-80, 2023.
 
 **<span style="color:rgb(255, 136, 0);"> [NCO] </span>**   Q. Li, Z. Cao, Y. Ma, Y. Wu, and Y.-J. Gong*, "Diversity Optimization for Travelling Salesman Problem via Deep Reinforcement Learning," **ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (SIGKDD)**, 2025. [[Code]](https://github.com/LiQisResearch/KDD--RF-MA3S)
 
