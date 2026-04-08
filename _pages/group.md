@@ -12,19 +12,20 @@ We invite highly motivated candidates with a PhD in Computer Science and related
 
 ## MetaEvo Group
 
-A dynamic special interest group in our lab. Visit the [MetaEvo](https://metaevo.github.io/) homepage to explore papers, repositories, and activities.
+Visit the [MetaEvo](https://metaevo.github.io/) homepage to explore papers, repositories, and activities.
 <div style="text-align:center">
 <img src="/images/MetaEvoLogo.png" width="30%">
 </div>
 
 ## Supervision
 ###	Postdocs
+- Haixiao Wang (2026-present)
 -	[Xiaolin Xiao](https://scholar.google.com/citations?user=FZxn1fYAAAAJ&hl=zh-CN) (2019-2022, South China Normal University)
 
 
 ### PhD
 - Wenjie Qiu (2025-present)	
-- Yuanting Zhong (2024-present)
+- [Yuanting Zhong](https://scholar.google.com/citations?user=EHYEOiUAAAAJ&hl=zh-CN) (2024-present)
 -	Ke Zhu (2024-present)
 -	Jiayuan Ding (2023-present)
 -	[Zeyuan Ma](https://scholar.google.com/citations?user=Jcy8wPgAAAAJ&hl=zh-CN) (2022-present)
@@ -37,6 +38,10 @@ A dynamic special interest group in our lab. Visit the [MetaEvo](https://metaevo
 
 
 ###	MSc
+- Yilin Huang (2025-present)
+- Chen Wang (2025-present)
+- Guojun Peng (2025-present)
+- Jingjuan Chen (2025-present)
 -	Jiajun Zhan (2024-present)
 -	Xiaolong Hu (2024-present)
 -	Zihan Yang (2024-present)
@@ -45,7 +50,7 @@ A dynamic special interest group in our lab. Visit the [MetaEvo](https://metaevo
 -	Junjun Li (2023-present)
 -	Hongqiao Lian (2023-present)
 -	Qi Li (2023-present)
--	Xincan Wang (2023-present)
+-	Xincan Wang (2023-present, co-supervised with Prof. Bi Sheng)
 -	Shiqi Lin (2022-2025, Shokz)
 -	Yifei Chen (2022-2025, Alibaba Group)
 -	Yuhong Sun (2022-2025, Guangxi Communications Science & Technology Group Co., Ltd.)

@@ -25,7 +25,7 @@ For a comprehensive list of my publications, please visit my profiles on [Google
 
 **<span style="color:#0000FF;"> [MetaBBO] </span>** H. Guo, Z. Ma, Y. Ma, X. Zhang, W.-N. Chen, Y.-J. Gong*, "DesignX: Human-Competitive Algorithm Designer for Black-Box Optimization," **Advances in Neural Information Processing Systems (NeurIPS)**, 2025.  [[Code]](https://github.com/MetaEvo/DesignX)
 
-**<span style="color:#0000FF;"> [MetaBBO] </span>** Z. Ma, H. Guo, J. Chen, G. Peng, Z. Cao, Y. Ma, Y.-J. Gong*, "LLaMoCo: Instruction Tuning of Large Language Models for Optimization Code Generation," https://arxiv.org/abs/2403.01131
+**<span style="color:#0000FF;"> [MetaBBO] </span>** Z. Ma, Y.-J. Gong*, H. Guo, J. Chen, Y. Ma, Z. Cao, J. Zhang, "LLaMoCo: Instruction Tuning of Large Language Models for Optimization Code Generation," **IEEE Transactions on Evolutionary Computation (TEC)**, 2025.
 
 **<span style="color:#0000FF;"> [MetaBBO] </span>** Z. Ma, H. Guo, Y.-J. Gong*, J. Zhang, K. C. Tan, "Toward Automated Algorithm Design: A Survey and Practical Guide to Meta-Black-Box-Optimization," **IEEE Transactions on Evolutionary Computation (TEC)**, 2025.
 

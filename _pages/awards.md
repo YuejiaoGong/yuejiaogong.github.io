@@ -1,5 +1,5 @@
 ---
-title: "Awards"
+title: "Services & Honors"
 permalink: /awards/
 author_profile: true
 redirect_from: 
@@ -7,7 +7,15 @@ redirect_from:
   - /markdown.html
 ---
 
-Throughout my academic journey, I have been honored to receive several awards & honors, including:
+
+## Services
+
+- **Associate Editor**, IEEE Transactions on Evolutionary Computation (TEVC)
+- **Associate Editor**,  ACM Transactions on Evolutionary Learning and Optimization (TELO)
+
+---
+
+## Honors
 
 - World's Top 2% Scientists on the Stanford University Released List (2023,2024, 2025)
 - Guangzhou Leading Talent Scholar in Science and Technology (2024)
