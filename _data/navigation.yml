@@ -9,19 +9,16 @@
 
 main:
   - title: "Publications"
-    url: /pub/
-
-  - title: "Survey & Benchmarks"
-    url: /survey/
-
-  - title: "Services & Honors"
-    url: /awards/    
+    url: /pub/ 
 
   #- title: "Teaching&Talks"
   #  url: /teaching/    
     
   - title: "Group"
     url: /group/
+
+  - title: "Services & Honors"
+    url: /awards/   
         
   #- title: "Services"
   #  url: /service/
@@ -31,6 +28,9 @@ main:
   
   - title: "CFPs"
     url: /cfp/
+
+ - title: "Survey & Benchmarks"
+    url: /survey/
 
   - title: "Photos"
     url: /photo/
