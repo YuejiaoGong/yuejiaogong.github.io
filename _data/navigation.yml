@@ -14,11 +14,11 @@ main:
   #- title: "Teaching&Talks"
   #  url: /teaching/    
     
-  - title: "Group"
-    url: /group/
-
   - title: "Services & Honors"
     url: /awards/   
+
+  - title: "Group"
+    url: /group/
         
   #- title: "Services"
   #  url: /service/
@@ -29,7 +29,7 @@ main:
   - title: "CFPs"
     url: /cfp/
 
- - title: "Survey & Benchmarks"
+  - title: "Survey & Benchmarks"
     url: /survey/
 
   - title: "Photos"
