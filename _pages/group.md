@@ -24,6 +24,7 @@ Visit the [MetaEvo](https://metaevo.github.io/) homepage to explore papers, repo
 
 
 ### PhD
+- Kai Li (2026-present)
 - Wenjie Qiu (2025-present)	
 - [Yuanting Zhong](https://scholar.google.com/citations?user=EHYEOiUAAAAJ&hl=zh-CN) (2024-present)
 -	Ke Zhu (2024-present)
@@ -38,6 +39,9 @@ Visit the [MetaEvo](https://metaevo.github.io/) homepage to explore papers, repo
 
 
 ###	MSc
+- Wenqi Huang (2026-present)
+- Rong Fan (2026-present)
+- Yuxun Chen (2026-present)
 - Yilin Huang (2025-present)
 - Chen Wang (2025-present)
 - Guojun Peng (2025-present)
@@ -47,9 +51,9 @@ Visit the [MetaEvo](https://metaevo.github.io/) homepage to explore papers, repo
 -	Zihan Yang (2024-present)
 -	Kaixu Chen (2024-present)
 -	Weibin Liang (2024-present)
--	Junjun Li (2023-present)
--	Hongqiao Lian (2023-present)
--	Qi Li (2023-present)
+-	Junjun Li (2023-present, Meituan)
+-	Hongqiao Lian (2023-present, Tencent)
+-	Qi Li (2023-present, Alibaba Group)
 -	Xincan Wang (2023-present, co-supervised with Prof. Bi Sheng)
 -	Shiqi Lin (2022-2025, Shokz)
 -	Yifei Chen (2022-2025, Alibaba Group)

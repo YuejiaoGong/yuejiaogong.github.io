@@ -17,7 +17,7 @@ For a comprehensive list of my publications, please visit my profiles on [Google
 ### 1. Learning for Optimization 
 *I began my research in this field in 2020, exploring a range of fascinating topics such as **<span style="color:#0000FF;"> Meta-Black-Box Optimization (MetaBBO)</span>**, **<span style="color: #FF0000;"> Data-Driven Evolutionary Optimization (DDEO)</span>**, and **<span style="color:rgb(255, 136, 0);"> Neural Combinatorial Optimization (NCO)</span>**.*
 
-**<span style="color:#0000FF;"> [MetaBBO] </span>** J. Zhan, Z. Ma, Y.-J. Gong*, K. C. Tan, "Learning Where, What and How to Transfer: A Multi-Role Reinforcement Learning Approach for Evolutionary Multitasking," https://arxiv.org/abs/2511.15199
+**<span style="color:#0000FF;"> [MetaBBO] </span>** J. Zhan, Z. Ma, Y.-J. Gong*, K. C. Tan, "Learning Where, What and How to Transfer: A Multi-Role Reinforcement Learning Approach for Evolutionary Multitasking," **IEEE Transactions on Evolutionary Computation (TEC)**, 2026. [[Code]](https://anonymous.4open.science/r/MetaMTO-0F02)
 
 **<span style="color:#0000FF;"> [MetaBBO] </span>** C. Wang, Y.-J. Gong, Z. Cao, Z. Ma, "Instance Generation for Meta-Black-Box Optimization through Latent Space Reverse Engineering," **The 39th AAAI Conference on Artificial Intelligence (AAAI)**, 2026. [[Code]](https://github.com/MetaEvo/Diverse-BBO)
 
@@ -45,7 +45,7 @@ For a comprehensive list of my publications, please visit my profiles on [Google
 
 **<span style="color:#FF0000;"> [DDEO] </span>** Y.-T. Zhong, T. Huang, X. Xiao, Y.-J. Gong*, "TRACE: A Generalizable Drift Detector for Streaming Data-Driven Optimization," **The 39th AAAI Conference on Artificial Intelligence (AAAI)**, 2026. [[Code]]((https://github.com/YTALIEN/TRACE))
 
-**<span style="color:#FF0000;"> [DDEO] </span>**  Y. Zhong and Y.-J. Gong*, “Data-Driven Evolutionary Computation under Continuously Streaming Environments: A Drift-Aware Approach,” **IEEE Transactions on Evolutionary Computation**, 2025.   [[Code]](https://github.com/YTALIEN/DASE)
+**<span style="color:#FF0000;"> [DDEO] </span>**  Y. Zhong and Y.-J. Gong*, “Data-Driven Evolutionary Computation under Continuously Streaming Environments: A Drift-Aware Approach,” **IEEE Transactions on Evolutionary Computation (TEC)**, 2025.   [[Code]](https://github.com/YTALIEN/DASE)
 
 **<span style="color:#FF0000;"> [DDEO] </span>** Y. Zhong, X. Wang, Y. Sun, Y.-J. Gong*, “SDDObench: A Benchmark for Streaming Data-Driven Optimization with Concept Drift,” **Genetic and Evolutionary Computation Conference (GECCO)**, 2024.   [[Code]](https://github.com/LabGong/SDDObench)
 
